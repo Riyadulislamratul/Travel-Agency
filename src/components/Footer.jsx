@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "./Container";
+import Container from "../Components/Container";
 import Section from "./Section";
 import Payment1 from "../assets/payment1.png";
 import Payment2 from "../assets/payment2.png";
